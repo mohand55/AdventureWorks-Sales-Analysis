@@ -102,7 +102,7 @@ products, categories, and other product-level trends.
 ## 📷 Dashboard Pages
 
 ### Sales Overview
-![Sales Overview](screenshots/OverView.png)
+![Sales Overview](screenshots/OverView.PNG)
 
 ### Customer Analysis
 ![Customer Analysis](screenshots/Customer_Analysis.PNG)
