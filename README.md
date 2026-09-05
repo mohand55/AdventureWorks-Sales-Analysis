@@ -48,7 +48,7 @@ perspectives while maintaining a clear separation between transactional
 facts and descriptive dimensions.
 
 ##Modeling_Overview
-![Modeling Overview](screenshots/Modeling.png)
+![Modeling Overview](screenshots/Modeling.PNG)
 
 ---
 
@@ -108,4 +108,4 @@ products, categories, and other product-level trends.
 ![Customer Analysis](screenshots/Customer_Analysis.PNG)
 
 ### Product Analysis
-![Product Analysis](screenshots/Product_Analysis.png)
+![Product Analysis](screenshots/Product_Analysis.PNG)
