@@ -47,6 +47,9 @@ The model was designed to support analysis from multiple business
 perspectives while maintaining a clear separation between transactional
 facts and descriptive dimensions.
 
+##Modeling_Overview
+![Modeling Overview](screenshots/Modeling.png)
+
 ---
 
 ## 📊 Key KPIs
@@ -94,3 +97,15 @@ products, categories, and other product-level trends.
 - Data Transformation
 - AdventureWorks Dataset
 
+---
+
+## 📷 Dashboard Pages
+
+### Sales Overview
+![Sales Overview](screenshots/OverView.png)
+
+### Customer Analysis
+![Customer Analysis](screenshots/Customer_Analysis.png)
+
+### Product Analysis
+![Product Analysis](screenshots/Product_Analysis.png)
