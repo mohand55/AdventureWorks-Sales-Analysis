@@ -105,7 +105,7 @@ products, categories, and other product-level trends.
 ![Sales Overview](screenshots/OverView.png)
 
 ### Customer Analysis
-![Customer Analysis](screenshots/Customer_Analysis.png)
+![Customer Analysis](screenshots/Customer_Analysis.PNG)
 
 ### Product Analysis
 ![Product Analysis](screenshots/Product_Analysis.png)
